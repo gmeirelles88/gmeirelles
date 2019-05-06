@@ -1,0 +1,46 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace OperacoesGit
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            double num1, num2, resultado;
+            string operacao ="";
+
+            Console.Write("Digite Um número: ");
+            num1 = double.Parse(Console.ReadLine());
+            Console.Write("Digite Outro número: ");
+            num2 = double.Parse(Console.ReadLine());
+            Console.Write("Escolha entre: Soma, Subtração, Divisão e Multiplicação ");
+            operacao = Console.ReadLine();
+            Console.Clear();
+
+            if (operacao == "Soma")
+            {
+                resultado = num1 + num2;
+                Console.WriteLine("O resultado de {0}+{1} é {2}", num1, num2, resultado);
+            }
+            else if (operacao == "Subtração")
+            {
+                resultado = num1 - num2;
+                Console.WriteLine("O resultado de {0}-{1} é {2}", num1, num2, resultado);
+            }
+            else if (operacao == "Divisão") 
+            {
+                resultado = num1 / num2;
+                Console.WriteLine("O resultado de {0}/{1} é {2}", num1, num2, resultado);
+            }
+            else if (operacao == "Multiplicação")
+            {
+                resultado = num1 * num2;
+                Console.WriteLine("O resultado de{0}*{1} é {2}", num1, num2, resultado);
+            }       
+        }
+    }
+}
