@@ -1,0 +1,12 @@
+C:\Users\aluno\Desktop\proj_recebenumero\proj_recebenumero\bin\Debug\proj_recebenumero.exe.config
+C:\Users\aluno\Desktop\proj_recebenumero\proj_recebenumero\bin\Debug\proj_recebenumero.exe
+C:\Users\aluno\Desktop\proj_recebenumero\proj_recebenumero\bin\Debug\proj_recebenumero.pdb
+C:\Users\aluno\Desktop\proj_recebenumero\proj_recebenumero\obj\Debug\proj_recebenumero.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Desktop\proj_recebenumero\proj_recebenumero\obj\Debug\proj_recebenumero.exe
+C:\Users\aluno\Desktop\proj_recebenumero\proj_recebenumero\obj\Debug\proj_recebenumero.pdb
+C:\Users\positivo\Desktop\proj_recebenumero\proj_recebenumero\bin\Debug\proj_recebenumero.exe.config
+C:\Users\positivo\Desktop\proj_recebenumero\proj_recebenumero\obj\Debug\proj_recebenumero.exe
+C:\Users\positivo\Desktop\proj_recebenumero\proj_recebenumero\obj\Debug\proj_recebenumero.pdb
+C:\Users\positivo\Desktop\proj_recebenumero\proj_recebenumero\bin\Debug\proj_recebenumero.exe
+C:\Users\positivo\Desktop\proj_recebenumero\proj_recebenumero\bin\Debug\proj_recebenumero.pdb
+C:\Users\positivo\Desktop\proj_recebenumero\proj_recebenumero\obj\Debug\proj_recebenumero.csprojResolveAssemblyReference.cache
